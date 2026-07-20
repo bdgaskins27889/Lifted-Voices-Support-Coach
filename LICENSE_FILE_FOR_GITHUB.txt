@@ -1,0 +1,61 @@
+BIAS-VI Dual License
+
+Copyright (c) 2026 Barbara D. Gaskins, M.S. / S.A.J Technologies LLC
+ORCID: 0009-0007-9915-944X
+Street Signals Intelligence Lab
+
+This project uses a dual licensing model:
+
+===============================================================
+SOURCE CODE — GNU Affero General Public License v3.0 (AGPL-3.0)
+===============================================================
+
+All source code files (.py, .js, .ts, etc.) in this repository are
+licensed under the GNU Affero General Public License v3.0.
+
+You may use, modify, and distribute the code under the terms of
+AGPL-3.0. If you run a modified version of this code as a network
+service, you MUST make the complete source code available to users
+of that service.
+
+Full text: https://www.gnu.org/licenses/agpl-3.0.en.html
+
+===============================================================
+DATA, METHODOLOGY & DOCUMENTATION — CC BY-NC-SA 4.0
+===============================================================
+
+All datasets, stimulus pairs, experimental designs, methodology
+documentation, research findings, and non-code creative works in
+this repository are licensed under the Creative Commons
+Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+You are free to:
+  - Share: copy and redistribute the material in any medium or format
+  - Adapt: remix, transform, and build upon the material
+
+Under the following terms:
+  - Attribution: You must give appropriate credit to
+    Barbara D. Gaskins, M.S. (ORCID: 0009-0007-9915-944X),
+    provide a link to the license, and indicate if changes were made.
+  - NonCommercial: You may not use the material for commercial purposes.
+  - ShareAlike: If you remix, transform, or build upon the material,
+    you must distribute your contributions under the same license.
+
+Full text: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+
+===============================================================
+COMMERCIAL LICENSING
+===============================================================
+
+For commercial use, proprietary integration, or use without
+ShareAlike requirements, contact:
+
+S.A.J Technologies LLC
+Barbara D. Gaskins, M.S.
+Email: bdgaskins27889@gmail.com
+
+Commercial licenses are available for:
+  - AI companies seeking bias certification
+  - Government agencies requiring audit services
+  - Healthcare/education organizations deploying AI systems
+  - Any use that does not comply with AGPL-3.0 or CC BY-NC-SA 4.0

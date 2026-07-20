@@ -1,0 +1,20 @@
+BIAS-VI Attribution Notice
+
+This work contains material created by:
+
+  Barbara D. Gaskins, M.S.
+  S.A.J Technologies LLC
+  Street Signals Intelligence Lab
+  ORCID: 0009-0007-9915-944X
+
+Original work: BIAS-VI (Behavioral Inference Auditing System
+for Violence Intervention)
+
+Licensed under CC BY-NC-SA 4.0 (data/methodology) and
+AGPL-3.0 (source code).
+
+If you are redistributing this material, you must retain
+this notice and comply with all license terms.
+
+Full license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+Commercial inquiries: bdgaskins27889@gmail.com

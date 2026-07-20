@@ -1,0 +1,25 @@
+DATA LICENSE — CC BY-NC-SA 4.0
+
+This dataset is licensed under Creative Commons
+Attribution-NonCommercial-ShareAlike 4.0 International.
+
+Creator: Barbara D. Gaskins, M.S.
+Organization: S.A.J Technologies LLC / Street Signals Intelligence Lab
+ORCID: 0009-0007-9915-944X
+Year: 2026
+
+If you use this dataset, you MUST:
+1. Credit Barbara D. Gaskins as the creator
+2. Include this license notice
+3. Link to the original material
+4. Indicate any modifications you made
+5. NOT use for commercial purposes without separate license
+6. License any adaptations under CC BY-NC-SA 4.0
+
+Citation:
+Gaskins, B. D. (2026). BIAS-VI: Behavioral Inference Auditing System
+for Violence Intervention AI. S.A.J Technologies LLC.
+DOI: 10.5281/zenodo.21271446
+ORCID: 0009-0007-9915-944X
+
+For commercial licensing: bdgaskins27889@gmail.com
